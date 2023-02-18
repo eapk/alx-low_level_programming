@@ -4,8 +4,8 @@
 #include <stdio.h>
 
 /* betty style doc for function main goes there */
-#include <betty-style.pl>
-#include <betty-doc.pl>
+//#include <betty-style.pl>
+//#include <betty-doc.pl>
 /* main - print a random num
 * return: 0
 */
