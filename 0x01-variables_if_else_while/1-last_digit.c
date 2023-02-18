@@ -16,7 +16,7 @@ int main(void)
 	/* your code goes there */
 	int x;
 	x = n % 10;
-	priintf("Last digit of %d is %d is %d", n, x);
+	printf("Last digit of %d is %d is %d ", n, x);
 	if (x > 5)
 	{
 		printf("and is greater than 5");
@@ -25,7 +25,7 @@ int main(void)
 	{
 		printf("and is 0");
 	}
-	if (x < 6 && != 0)
+	if (x < 6 && x != 0)
 	{
 		printf("and is less than 6 and nnot 0");
 	}
