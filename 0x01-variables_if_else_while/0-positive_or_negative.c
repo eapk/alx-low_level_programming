@@ -4,9 +4,7 @@
 #include <stdio.h>
 
 /* betty style doc for function main goes there */
-/* main - print a random num
-* return: 0
-*/
+/* main - print a random num return: 0 */
 int main(void)
 {
 	int n;
