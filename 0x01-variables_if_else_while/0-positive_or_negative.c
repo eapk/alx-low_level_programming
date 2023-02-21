@@ -3,7 +3,10 @@
 /* more headers goes there */
 #include <stdio.h>
 
-/* main - print a random num return: 0 */
+/** main - print
+ * a random num 
+ * return: 0
+ **/
 int main(void)
 {
 	int n;
