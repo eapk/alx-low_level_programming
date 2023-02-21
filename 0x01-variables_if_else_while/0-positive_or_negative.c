@@ -3,9 +3,10 @@
 /* more headers goes there */
 #include <stdio.h>
 
-/** main - print
- * a random num 
- * return: 0
+/**
+ * main - a roundom num
+ *
+ * Return: 0
  **/
 int main(void)
 {
