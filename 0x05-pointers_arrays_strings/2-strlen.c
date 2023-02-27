@@ -1,4 +1,4 @@
-#include <stdio>
+#include <stdio.h>
 /*
  * _strlin(char s) - lenght of a string
  *using strlen
