@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
  * swap_int - function that swap the value
- * of two integrrs 
- * @a: int be swab and 
+ * of two integrrs
+ * @a: int be swab and
  * @b: int been swap for a
  **/
 void swap_int(int *a, int *b)
