@@ -3,7 +3,7 @@
  * swap_int - function that swap the value
  * of two integrrs
  * @a: int be swab and
- * @b: int been swap for a
+ * @b: int been swap for
  **/
 void swap_int(int *a, int *b)
 {
